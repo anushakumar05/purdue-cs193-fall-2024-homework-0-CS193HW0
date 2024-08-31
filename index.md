@@ -1,7 +1,7 @@
 ## Anusha Kumar's First CS193 Homework
-- I love the TAs' energy
-- My classmates are friendly
-- I enjoy learning new things I haven't learned in school before
+- I love the TAs' energy.
+- My classmates are friendly.
+- I enjoy learning new things I haven't learned in school before.
 
 ## Welcome to GitHub Pages
 
